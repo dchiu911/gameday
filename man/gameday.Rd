@@ -3,7 +3,7 @@
 \name{gameday}
 \alias{gameday}
 \alias{gameday-package}
-\title{My first R Package: gdameday}
+\title{My first R Package: gameday}
 \description{
 A one-line summary of what this package is for
 }

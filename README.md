@@ -7,6 +7,9 @@ A package that allows the user to extract data on NHL teams without using the br
 Install `gameday` from GitHub:
 
 
+```r
+devtools::install_github("dchiu911/gameday")
+```
 _Note that you need the `devtools` package to do this._
 
 ### Usage

@@ -1,5 +1,5 @@
 gameday
--------
+=======
 
 A package that allows the user to extract data on NHL teams without using the browser. The RStudio interface is simple and intuitive to use.
 

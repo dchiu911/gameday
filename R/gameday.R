@@ -1,10 +1,7 @@
-#' My first R Package: gameday
+#' gameday
 #'
-#' A one-line summary of what this package is for
+#' Provides an RStudio interface for extracting data on NHL teams.
 #'
-#' Then we can add a larger paragraph
-#' that can span several
-#' lines
 #'
 #' @docType package
 #' @name gameday

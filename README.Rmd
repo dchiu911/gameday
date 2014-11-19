@@ -17,7 +17,7 @@ devtools::install_github("dchiu911/gameday")
 _Note that you need the `devtools` package to do this._
 
 ### Usage
-At this point, `gameday` has two functions: `gday()` and `scores()`. We'll discuss each in turn.
+At the current version, `gameday` has two functions: `gday()` and `scores()`. We'll discuss each in turn.
 
 Given a team and a date, we can call `gday(team, date)` to see whether that team plays on that date.
 

@@ -59,4 +59,6 @@ Further details can be found in the vignette for this package. To view it, run t
 browseVignettes("gameday")
 ```
 
-Once there, you can click on the `HTML` link to get a nice introduction to `gameday`.
+Once there, you can click on the `HTML` link to get a nice introduction to `gameday`. The help files can be accessed with `?gday` and `?scores` for details on function arguments and some examples.
+
+Alternatively, there is a markdown version available in this repository, found [here](https://github.com/dchiu911/gameday/blob/master/vignettes/overview.md).

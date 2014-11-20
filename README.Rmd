@@ -42,4 +42,4 @@ browseVignettes("gameday")
 
 Once there, you can click on the `HTML` link to get a nice introduction to `gameday`. The help files can be accessed with `?gday` and `?scores` for details on function arguments and some examples.
 
-Alternatively, there is a markdown version available in this repository, found [here]().
+Alternatively, there is a markdown version available in this repository, found [here](https://github.com/dchiu911/gameday/blob/master/vignettes/overview.md).

@@ -11,7 +11,6 @@
 #' @examples
 #' scores("2014-11-11")
 #' scores("2015-01-01")
-#' scores(Sys.Date())
 scores <- function(date){
 	assertthat::assert_that(check_date(date))
 	if(internet_connection()){
